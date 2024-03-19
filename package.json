@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "lodash": "^4.17.21",
-    "three": "^0.157.0",
+    "three": "^0.162.0",
     "webpack-dev-server": "^4.11.1",
     "webpack-glsl-loader": "^1.0.1"
   }
